@@ -358,3 +358,6 @@
 ```
 
 </details>
+
+
+그 외 .. [코드잇](https://www.wanted.co.kr/wd/151738), [카카오뱅크](https://recruit.kakaobank.com/jobs?recruitClassName=Server)
