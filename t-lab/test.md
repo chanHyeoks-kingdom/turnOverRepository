@@ -79,9 +79,9 @@ try{
 
 > #### 5. 예외 전가
 - 호출한 곳으로 예외를 떠넘기는 것
-- 매서드 선언부 끝에 throws 키워드를 작성
+- 매서드 선언부 끝에 `throws` 키워드를 작성
 ```
-void testMethod() `throws` NullpointerException, ArrayIndexOutOfBoundException{
+void testMethod() throws NullpointerException, ArrayIndexOutOfBoundException{
   ...
 }
 ```
